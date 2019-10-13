@@ -1,0 +1,60 @@
+2019-10-07 20:13:18,261 - INFO Checking requirements
+2019-10-07 20:13:21,299 - INFO Building database
+2019-10-07 20:13:31,122 - DEBUG Populate: PopulatePictures
+2019-10-07 20:13:31,185 - DEBUG Populate: PopulateCurrencies
+2019-10-07 20:13:31,232 - DEBUG Populate: PopulateStores
+2019-10-07 20:13:31,310 - DEBUG Populate: InstallLanguages
+2019-10-07 20:13:31,325 - DEBUG Populate: PopulateMeasureDimensions
+2019-10-07 20:13:31,325 - DEBUG Populate: PopulateMeasureWeights
+2019-10-07 20:13:31,341 - DEBUG Populate: PopulateTaxCategories
+2019-10-07 20:13:31,388 - DEBUG Populate: PopulateCountriesAndStates
+2019-10-07 20:13:31,591 - DEBUG Populate: PopulateShippingMethods
+2019-10-07 20:13:31,607 - DEBUG Populate: PopulateDeliveryTimes
+2019-10-07 20:13:31,607 - DEBUG Populate: PopulateQuantityUnits
+2019-10-07 20:13:31,622 - DEBUG Populate: PopulateCustomersAndUsers
+2019-10-07 20:13:31,732 - DEBUG Populate: PopulateEmailAccounts
+2019-10-07 20:13:31,747 - DEBUG Populate: PopulateMessageTemplates
+2019-10-07 20:13:31,888 - DEBUG Populate: PopulateTopics
+2019-10-07 20:13:31,998 - DEBUG Populate: PopulateSettings
+2019-10-07 20:13:32,437 - DEBUG Populate: PopulateActivityLogTypes
+2019-10-07 20:13:32,468 - DEBUG Populate: PopulateCustomersAndUsers
+2019-10-07 20:13:32,546 - DEBUG Populate: PopulateProductTemplates
+2019-10-07 20:13:32,562 - DEBUG Populate: PopulateCategoryTemplates
+2019-10-07 20:13:32,577 - DEBUG Populate: PopulateManufacturerTemplates
+2019-10-07 20:13:32,593 - DEBUG Populate: PopulateScheduleTasks
+2019-10-07 20:13:32,593 - DEBUG Populate: PopulateLocaleResources
+2019-10-07 20:13:34,803 - DEBUG Populate: PopulateMenus
+2019-10-07 20:13:34,928 - INFO Seeding sample data
+2019-10-07 20:13:34,944 - DEBUG Populate: PopulateSpecificationAttributes
+2019-10-07 20:13:35,055 - DEBUG Populate: PopulateProductAttributes
+2019-10-07 20:13:35,097 - DEBUG Populate: PopulateProductAttributeOptionsSets
+2019-10-07 20:13:35,120 - DEBUG Populate: PopulateProductAttributeOptions
+2019-10-07 20:13:35,134 - DEBUG Populate: PopulateCategories
+2019-10-07 20:13:35,417 - DEBUG Populate: PopulateManufacturers
+2019-10-07 20:13:35,651 - DEBUG Populate: PopulateProducts
+2019-10-07 20:13:38,372 - DEBUG Populate: PopulateProductBundleItems
+2019-10-07 20:13:38,590 - DEBUG Populate: PopulateProductVariantAttributes
+2019-10-07 20:13:38,934 - DEBUG Populate: ProductVariantAttributeCombinations
+2019-10-07 20:13:39,265 - DEBUG Populate: PopulateProductTags
+2019-10-07 20:13:39,297 - DEBUG Populate: PopulateForumsGroups
+2019-10-07 20:13:39,343 - DEBUG Populate: PopulateForums
+2019-10-07 20:13:39,359 - DEBUG Populate: PopulateDiscounts
+2019-10-07 20:13:39,390 - DEBUG Populate: PopulateBlogPosts
+2019-10-07 20:13:39,437 - DEBUG Populate: PopulateNews
+2019-10-07 20:13:39,484 - DEBUG Populate: PopulatePolls
+2019-10-07 20:13:39,515 - DEBUG Populate: MovePictures
+2019-10-07 20:13:39,937 - INFO Installing plugin 'Google Analytics'.
+2019-10-07 20:13:40,536 - INFO Installing plugin 'SmartStore.NET Developer Tools (MiniProfiler and other goodies)'.
+2019-10-07 20:13:40,660 - INFO Installing plugin 'Common discount requirement rules'.
+2019-10-07 20:13:40,770 - INFO Installing plugin 'Google Merchant Center (GMC) feed'.
+2019-10-07 20:13:40,879 - INFO Installing plugin 'Clickatell SMS Provider'.
+2019-10-07 20:13:40,957 - INFO Installing plugin 'Offline Payment Methods'.
+2019-10-07 20:13:41,796 - INFO Installing plugin 'Login and Pay with Amazon'.
+2019-10-07 20:13:42,603 - INFO Installing plugin 'PayPal'.
+2019-10-07 20:13:42,634 - INFO Installing plugin 'Facebook Login'.
+2019-10-07 20:13:42,696 - INFO Installing plugin 'Shipping'.
+2019-10-07 20:13:42,884 - INFO Plugin installed: SystemName: SmartStore.Shipping, Version: 3.2.2, Description: 'Shipping'
+2019-10-07 20:13:42,899 - INFO Installing plugin 'Shipping by weight'.
+2019-10-07 20:13:43,004 - INFO Installing plugin 'Default Tax Providers'.
+2019-10-07 20:13:43,074 - INFO Finalizing installation
+2019-10-07 20:13:43,671 - INFO Installation completed successfully
